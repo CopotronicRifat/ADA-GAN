@@ -66,9 +66,8 @@ Includes visual output of GANs trained on Bangla character/numeral datasets with
 If you use this work, please cite:
 
 ```
-S. M. Rafiuddin, M. Rakib, S. Kamal, and A. Bagavathi, 
-"Exploiting Adaptive Contextual Masking for Aspect-Based Sentiment Analysis", 
-Advances in Knowledge Discovery and Data Mining, 2024.
+S. M. Rafiuddin. "High Cursive Complex Character Recognition using GAN External Classifier." 
+In ICCA '22: Proceedings of the 2nd International Conference on Computing Advancements, 2022.
 ```
 
 ## Acknowledgements
